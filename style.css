@@ -1,0 +1,44 @@
+.wrap{
+    height: 100vh;
+    width: 100%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+}
+.miniPage{
+    height: 40vh;
+    width: 100%;
+    background-color: brown;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.ImgDiv{
+    height: 40vh;
+    width: 30%;
+    background-color: red;
+    display: flex;
+    left: 30px;
+}
+.TextDiv{
+    height: 40vh;
+    width: 40%;
+    background-color: blue;
+}
+.InputDiv{
+    height: 40vh;
+    width: 40%;
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.BurgerText{
+    font-size: 25px;
+    color:black;
+}
+.BurgerText2{
+    font-size: 25px;
+    color:gray;
+}
